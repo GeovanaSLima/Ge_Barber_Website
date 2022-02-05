@@ -12,6 +12,14 @@ After all development, I deployed the website on Heroku, and you can access it o
 # 🏁 Content Table
 
 - [🏁 Content Table](#-content-table)
+- [💻 How to Use It](#-how-to-use-it)
+  - [⚠️ Requirements](#️-requirements)
+  - [🔨 Installing and Configuring](#-installing-and-configuring)
+  - [📄 Update Files](#-update-files)
+  - [🚩 Running the Project](#-running-the-project)
+  - [📝 Project Structure](#-project-structure)
+- [🛠 Technology](#-technology)
+- [✒️ Author](#️-author)
 
 
 </br>
@@ -141,15 +149,12 @@ The following technologies were used on this project
 
 # ✒️ Author
 
-<a href="https://learningdata.dev/sobre">
- <img style="border-radius:50%" src="https://avatars.githubusercontent.com/u/66534549?v=4" width="100px;" alt="Geovana Sousa"/>
- <br />
- <sub style="font-size:15px"><b>Geovana Sousa 🚀</b></sub></a>
+<a href="https://learningdata.dev/sobre">  
+ <img src="https://raw.githubusercontent.com/GeovanaSLima/GeovanaSLima/main/GitProfile.png" alt="Geovana Sousa"/>
+  <p><b>Geovana Sousa 🚀</b></p></a>
+<p><i>A passionate Data Scientist and Developer ❤️</i></br>
+   Get in touch! 👋🏽</p>
 
-
-_A passionate Data Scientist and Developer ❤️_
-
-Get in touch! 👋🏽
 
 [![LearningData Badge](https://img.shields.io/badge/-LearningData-%23FC5C65?style=&logo=ghost)](https://learningdata.dev)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-%238390A2?style=&logo=adobe)](https://geovanasousa.com)
