@@ -1,6 +1,6 @@
 <h1 align="center">Alura Barber Website</h1>
 
-<p align="center"><a href="https://ge-barbearia-alura.herokuapp.com"><img src="https://img.shields.io/static/v1?label=&message=Live Demo&color=FC5C65&style=for-the-badge&logo=heroku" style="align-items:center"/></a></p>
+<p align="center"><a href="https://ge-barbearia-alura.herokuapp.com"><img src="https://img.shields.io/static/v1?label=&message=Live_Demo&color=FC5C65&style=for-the-badge&logo=heroku" style="align-items:center"/></a></p>
 
 <br>
 
