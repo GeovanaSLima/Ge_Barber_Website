@@ -42,7 +42,7 @@ Besides that, you're going to need a code editor of your preference. I am used t
 
 ```bash
 # Clone this repository
-$ git clone 
+$ git clone https://github.com/GeovanaSLima/Ge_Barber_Website.git
 ```
 
 ```python
